@@ -1,0 +1,22 @@
+{
+  "name": "gravestone",
+  "version": "1.0.0",
+  "description": "Are they still alive?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dead",
+    "wikipedia",
+    "living",
+    "person",
+    "life",
+    "alive"
+  ],
+  "author": "Nick Sandonato <nick.sandonato@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
